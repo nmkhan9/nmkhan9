@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nguyen Manh Khang</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Vietnam</h3>
-
-
-## 🛠️ Languages and Tools:
 
 ## 🛠️ Languages and Tools:
 
